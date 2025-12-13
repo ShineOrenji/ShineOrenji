@@ -3,14 +3,14 @@
 <h3 align="center">New Developer | Web Enthusiast | Creative Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+Developer;Learning+JavaScript+and+Python;Dreaming+to+Build+Cool+Projects;Never+Stop+Learning!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+Developer;Learning+Blender+3D+and+Digital+Art;Dreaming+to+Build+Cool+Projects;Never+Stop+Learning!&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🔰 **Newbie programmer**, still learning everything from zero  
-- 💻 Currently learning **JavaScript, Python, Web Dev**  
+- 🔰 Still learning everything from zero  
+- 💻 Currently learning **Html, Css, Javascript, Web Dev and 3D modelling**  
 - 🎨 Love drawing, guitar, Blender, and creative stuff  
 - 🔥 My mission: *jadi developer yang punya skill kuat walaupun belajar sendiri*  
 - 🌱 Always open to learn new things  
