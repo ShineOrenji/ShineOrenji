@@ -12,7 +12,7 @@
 - 🔰 Still learning everything from zero  
 - + Currently learning **Web App, Drawing again and 3D modelling**  
 - 🎨 Love drawing, guitar, Blender, and creative stuff  
-- 🔥 My misi: *jadi developer yang punya skill kuat walaupun belajar sendiri*  
+- 🔥 My misi: *Soon*  
 - 🌱 Always open to learn new things  
 
 ---
