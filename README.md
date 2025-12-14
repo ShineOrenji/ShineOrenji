@@ -10,16 +10,16 @@
 
 ## 🌟 About Me
 - 🔰 Still learning everything from zero  
-- 💻 Currently learning **Html, Css, Javascript, Web Dev and 3D modelling**  
+- + Currently learning **Web App, Drawing again and 3D modelling**  
 - 🎨 Love drawing, guitar, Blender, and creative stuff  
-- 🔥 My mission: *jadi developer yang punya skill kuat walaupun belajar sendiri*  
+- 🔥 My misi: *jadi developer yang punya skill kuat walaupun belajar sendiri*  
 - 🌱 Always open to learn new things  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,blender" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,blender,android-studio" />
 </p>
 
 ---
