@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,blender,android-studio" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,blender,android-studio,laravel" />
 </p>
 
 ---
